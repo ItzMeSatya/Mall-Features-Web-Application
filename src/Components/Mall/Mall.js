@@ -57,10 +57,10 @@ function Mall() {
                 </li>
                 <li class="cards_item">
                     <div class="card">
-                        <div class="card_image"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.searchhyderabad.com%2Fplace%2Fcinemas-in-hyderabad%2Fpvr-cinemas-next-galleria-mall-panjagutta%2F&psig=AOvVaw3_g5skFllC7k3FqR-7eVPf&ust=1672486124767000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPDjmb2eofwCFQAAAAAdAAAAABAS" /></div>
+                        <div class="card_image"><img src="https://cdn.siasat.com/wp-content/uploads/2020/03/galleria.jpg" /></div>
                         <div class="card_content">
                             <h2 class="card_title">Next Galleria Mall</h2>
-                            <p class="card_text">The mall confides a variety of restaurants, shopping complexes for clothes, jewellery, kids stuff and much more.</p>
+                            <p class="card_text">The mall confides a variety of restaurants, shopping complexes for clothes, jewellery, kids stuff and much more. Hosts the popular chain of PVR cinemas</p>
                             <button class="btn card_btn">Enter</button>
                         </div>
                     </div>
