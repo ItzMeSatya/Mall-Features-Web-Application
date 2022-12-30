@@ -44,7 +44,7 @@ function Gsm() {
                             <div class="card_content">
                                 <h2 class="card_title">Interactive Map</h2>
                                 <p class="card_text">Map which can Identify and Showcase each individual establishment in the Mall</p>
-                                <a href="/parking"><button class="btn card_btn">Coming Soon...</button></a>
+                                <button class="btn card_btn">Coming Soon...</button>
                             </div>
                         </div>
                     </li>
