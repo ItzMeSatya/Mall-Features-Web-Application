@@ -52,7 +52,7 @@ function Movies() {
                         </div>
                         <div class="movie_social">
                             <ul>
-                                <li><i class="material-icons">share</i></li>
+                                <li><i class="material-icons">Share ♾️</i></li>
                                 <li><i class="material-icons">👍</i></li>
                                 <li><i class="material-icons">💬</i></li>
                             </ul>
@@ -79,7 +79,7 @@ function Movies() {
                         </div>
                         <div class="movie_social">
                             <ul>
-                                <li><i class="material-icons">share</i></li>
+                                <li><i class="material-icons">Share ♾️</i></li>
                                 <li><i class="material-icons">👍</i></li>
                                 <li><i class="material-icons">💬</i></li>
                             </ul>
@@ -105,7 +105,7 @@ function Movies() {
                         </div>
                         <div class="movie_social">
                             <ul>
-                                <li><i class="material-icons">share</i></li>
+                                <li><i class="material-icons">Share ♾️</i></li>
                                 <li><i class="material-icons">👍</i></li>
                                 <li><i class="material-icons">💬</i></li>
                             </ul>
