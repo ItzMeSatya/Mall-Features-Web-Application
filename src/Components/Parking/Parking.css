@@ -4,6 +4,12 @@
   box-sizing: border-box;
 }
 
+.park-head {
+  margin: 50px;
+  font-size: 40px;
+  font-weight: bold;
+}
+
 .car-park {
   margin: 20px auto;
   max-width: 300px;
@@ -16,15 +22,16 @@
 
 .exit:before,
 .exit:after {
-  content: "EXIT";
-  font-size: 14px;
+  content: "~EXIT~";
+  font-size: 16px;
   line-height: 18px;
   padding: 0px 2px;
   font-family: "Arial Narrow", Arial, sans-serif;
   display: block;
   position: absolute;
-  background: green;
+  background: rgb(2, 155, 2);
   color: white;
+  border: 1px solid white;
   top: 50%;
   transform: translate(0, -50%);
 }
@@ -72,7 +79,7 @@ ol {
 }
 
 .park input[type=checkbox]:checked+label {
-  background: #bada55;
+  background: #F42536;
   -webkit-animation-name: rubberBand;
   animation-name: rubberBand;
   animation-duration: 300ms;
@@ -80,7 +87,7 @@ ol {
 }
 
 .park input[type=checkbox]:disabled+label {
-  background: #dddddd;
+  background: #252525;
   text-indent: -9999px;
   overflow: hidden;
 }
@@ -108,7 +115,7 @@ ol {
   font-weight: bold;
   line-height: 1.5rem;
   padding: 4px 0;
-  background: #F42536;
+  background: #bada55;
   border-radius: 5px;
   animation-duration: 300ms;
   animation-fill-mode: both;
@@ -128,7 +135,7 @@ ol {
 
 .park label:hover {
   cursor: pointer;
-  box-shadow: 0 0 0px 2px #5C6AFF;
+  box-shadow: 0 0 0px 4px #5C6AFF;
 }
 
 @-webkit-keyframes rubberBand {
