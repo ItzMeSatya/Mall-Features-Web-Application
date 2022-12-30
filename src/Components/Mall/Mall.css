@@ -9,7 +9,7 @@
 }
 
 html {
-  background-color: #ecf9ff;
+  background-color: white;
 }
 
 a {
@@ -44,7 +44,7 @@ img {
 }
 
 .btn {
-  color: whitesmoke;
+  color: #151515;
   padding: 0.8rem;
   font-size: 14px;
   text-transform: uppercase;
@@ -53,7 +53,7 @@ img {
   display: block;
   width: 100%;
   cursor: pointer;
-  border: 1px solid white;
+  border: 1px solid grey;
   background: transparent;
 }
 
@@ -101,7 +101,7 @@ img {
 }
 
 .card_title {
-  color: whitesmoke;
+  color: #151515;
   font-size: 1.1rem;
   font-weight: 700;
   letter-spacing: 1px;
@@ -110,7 +110,7 @@ img {
 }
 
 .card_text {
-  color: whitesmoke;
+  color: #151515;
   font-size: 0.875rem;
   line-height: 1.5;
   margin-bottom: 1.25rem;
