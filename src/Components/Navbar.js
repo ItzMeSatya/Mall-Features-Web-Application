@@ -6,7 +6,7 @@ function Navbar() {
     <nav class="navbar">
       <div className="logo">
         <img className='vnr' src="https://convergence2k21.netlify.app/images/VNRVJIET%20Logo.png" alt="" />
-        <h2>Design Thinking</h2>
+        <h2>FOOGLY</h2>
       </div>
       <div className="links">
         <ul>
